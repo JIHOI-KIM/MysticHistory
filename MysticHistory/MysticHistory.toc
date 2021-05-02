@@ -1,0 +1,6 @@
+## interface: 90005
+## Title: MysticHistory
+## Author: Jihoi Kim
+## Version: 1.0
+
+main.lua
